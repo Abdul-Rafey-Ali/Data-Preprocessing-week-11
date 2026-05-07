@@ -1,0 +1,32 @@
+id,age,education,gender,income,city,credit_score,loan_amount,loan_status
+1,58.0,High School,Female,60718.0,Lahore,814.0,330724,Rejected
+2,48.0,High School,Male,52602.0,Islamabad,692.0,420685,Approved
+3,34.0,Bachelors,Female,94658.0,Karachi,615.0,331160,Rejected
+4,27.0,PhD,Male,98112.0,Karachi,375.0,51233,Rejected
+5,40.0,PhD,Female,78067.0,Islamabad,569.0,397007,Approved
+6,58.0,High School,Male,47516.0,Karachi,524.0,202780,Approved
+7,38.0,PhD,Female,107969.0,Lahore,829.0,456448,Approved
+8,42.0,Masters,Female,21089.0,Lahore,412.0,229522,Approved
+9,30.0,Masters,Male,57346.0,Islamabad,550.0,484653,Rejected
+10,30.0,PhD,Male,94663.0,Karachi,532.0,111311,Rejected
+11,43.0,PhD,Female,30487.0,Lahore,382.0,39409,Rejected
+12,55.0,High School,Male,20155.0,Lahore,424.0,251231,Rejected
+13,59.0,Masters,Male,87494.0,Peshawar,474.0,417540,Approved
+14,43.0,Masters,Male,96229.0,Peshawar,368.0,406954,Approved
+15,22.0,Bachelors,Male,58547.0,Lahore,346.0,291198,Rejected
+16,41.0,High School,Female,48795.0,Islamabad,555.0,34709,Approved
+17,21.0,Bachelors,Female,75296.0,Quetta,329.0,114321,Rejected
+18,43.0,Masters,Male,41447.0,Quetta,580.0,483859,Rejected
+19,49.0,High School,Male,56598.0,Lahore,536.0,5363,Rejected
+20,57.0,PhD,Male,61814.0,Lahore,547.0,277502,Rejected
+21,21.0,High School,Male,110751.0,Lahore,667.0,499829,Approved
+22,40.0,PhD,Female,95330.0,Islamabad,794.0,401456,Rejected
+23,52.0,PhD,Female,118745.0,Peshawar,324.0,470417,Rejected
+24,,,,Male,,Lahore,,50689,Approved
+25,41.0,PhD,Male,83278.0,Lahore,793.0,269080,Rejected
+26,44.0,Bachelors,Male,75077.0,Karachi,613.0,379416,Approved
+27,46.0,Masters,Female,91906.0,Islamabad,674.0,96074,Rejected
+28,47.0,PhD,Male,29528.0,Lahore,324.0,180037,Approved
+29,35.0,Bachelors,Female,113812.0,Karachi,633.0,213606,Approved
+30,34.0,PhD,Male,70100.0,Quetta,654.0,5882,Approved
+
